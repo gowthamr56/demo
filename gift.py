@@ -37,7 +37,7 @@ with cont1:
                     <h1>Happy Birthday Genius Madam</h1>
                     <h4>Forget the past, look forward to the future, for the best things are yet to come.</h4>
                     <div style="display: flex; justify-content: flex-end;">
-                        <h6>- Your Hitler Sir🦋</h6>
+                        <h6>- Your Hitler Sir 🦋</h6>
                     </div>
                 </center>
             """, unsafe_allow_html=True
